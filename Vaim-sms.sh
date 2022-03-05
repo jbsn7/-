@@ -4,8 +4,8 @@
 #Vaim-sms v1.0
 #don't use my code with giving me credit 
 #if you use without giving me credit then you won't became a programmer so please respect
-#Youtube channel : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ
-#Github (coded by vaimpier ritik ) >>> : https://github.com/VaimpierOfficial
+#
+#
 #For business : fultushs@gmail.com
 #Mr.H4cker
 #==========================================================================================================================
@@ -21,7 +21,7 @@ printf "\e[1;91m     \   Y   /\__  \ |  |/     \   __\e[0m\e[1;93m____  /  ___//
 printf "\e[1;91m      \     /  / __ \|  |  Y Y  \ /__\e[0m\e[1;93m___/  \___ \|  Y Y  \\___ \  \e[0m\n "
 printf "\e[1;91m       \___/  (____  /__|__|_|  /    \e[0m\e[1;93m     /____  >__|_|  /____  > \e[0m\n "
 printf "\e[1;91m                   \/         \/     \e[0m\e[1;93m          \/      \/     \/  \e[0m\n "
-printf "\e[1;91m. JAY
+
 
 
 
@@ -29,7 +29,7 @@ printf "\e[1;91m. JAY
 　 　
 
 
-printf "\n"
+
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By VaimpierOfficial (J.B.S.N)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @Mr.H4cker                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           JAY BABA SHOBHNATH          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
@@ -38,8 +38,8 @@ printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
 printf "         Attacking targets without prior mutual consent\n"
 printf "         is illegal!\n"
-printf ".         JAY BABA SHOBHNATH
-printf "\n"
+
+
 
 
 }
